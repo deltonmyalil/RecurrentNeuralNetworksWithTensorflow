@@ -1,0 +1,2 @@
+model_checkpoint_path: "TF_LSTM_Adam_NoGPU_higher_Eta"
+all_model_checkpoint_paths: "TF_LSTM_Adam_NoGPU_higher_Eta"
