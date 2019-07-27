@@ -1,2 +1,2 @@
-model_checkpoint_path: "TF_LSTM_Adam_NoGPU_higher_Eta"
-all_model_checkpoint_paths: "TF_LSTM_Adam_NoGPU_higher_Eta"
+model_checkpoint_path: "Milking_a_cow_GRU_Adam_NoGPU_LowEta"
+all_model_checkpoint_paths: "Milking_a_cow_GRU_Adam_NoGPU_LowEta"
